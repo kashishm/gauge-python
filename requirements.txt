@@ -3,5 +3,5 @@ redbaron
 twine
 debugpy
 grpcio-tools
-grpcio==1.37.0
+grpcio==1.37.1
 protobuf>=3.5.2
